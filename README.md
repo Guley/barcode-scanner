@@ -5,6 +5,6 @@ An advanced barcode-scanner written in JavaScript https://serratus.github.io/qua
 https://serratus.github.io/quaggaJS/examples/live_w_locator.html 
 
 
-# Offical Repositry
+# Offical Repository
 
 https://github.com/serratus/quaggaJS

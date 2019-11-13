@@ -1,8 +1,8 @@
 # Barcode - Scanner
-An advanced barcode-scanner written in JavaScript https://serratus.github.io/quaggaJS/ 
+An advanced barcode-scanner written in JavaScript https://guley.github.io/barcode-scanner/
 
 > Here is live Example 
-https://serratus.github.io/quaggaJS/examples/live_w_locator.html 
+https://guley.github.io/barcode-scanner/
 
 
 # Offical Repository
